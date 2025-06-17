@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Escritor en construcción</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f3f3f3;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+      padding: 1em;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #222;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Escritor en construcción</h1>
+  <p>
+    Me llamo Juan Juárez. Estoy construyendo mi voz, una historia a la vez.<br />
+    Este sitio es un primer paso: pronto encontrarás aquí mis libros, relatos, proyectos y sueños.
+  </p>
+</body>
+</html>
